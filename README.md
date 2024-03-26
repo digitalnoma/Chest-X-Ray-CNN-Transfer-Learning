@@ -1,5 +1,7 @@
 # Chest X-Ray Image Classification with CNN and Transfer Learning
 
+Give this repository an upvote if you've learnt a thing or two!  
+
 This project demonstrates the application of Convolutional Neural Networks (CNNs) and transfer learning to classify chest X-ray images. By leveraging PyTorch, this notebook guides you through the end-to-end process of implementing a deep learning solution for medical image analysis.
 
 ## Project Highlights
